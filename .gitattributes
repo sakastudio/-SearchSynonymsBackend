@@ -1,0 +1,4 @@
+wiki.model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+wiki.model.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+wiki_model.txt filter=lfs diff=lfs merge=lfs -text
